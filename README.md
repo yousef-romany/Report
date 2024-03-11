@@ -2,7 +2,7 @@
 ## Companys : 
 * [ControlHippo .](https://controlhippo.com/pricing/)
     - ControlHippo image : 
-        ![ControlHippo image : ](company1.png)
+        ![ControlHippo image : ](./images/company1.png)
     
     - Technolgy :
         - CMS : WordPress 6.4.3
@@ -37,7 +37,7 @@
         - Webhooks => Productivity  
 * [Freshdesk .](https://www.freshworks.com/freshdesk/helpdesk-software-bex/?utm_source=mvfglobal&utm_medium=cpc&utm_campaign=en-helpdesk&tactic_id=3603167&aclid=st3ZDYoX2AgpikDo78Lp&apid=OVFzVA&asid=NO_SESSION_COOKIE&aref=https%3A%2F%2Fappwiki.nl&atemp=default)
     - Freshdesk image : 
-        ![Freshdesk image : ](company3.png)
+        ![Freshdesk image : ](./images/company3.png)
     - Technolgy :
         - Web frameworks 
             - Nextjs
@@ -53,8 +53,8 @@
             - Emotion
     -
 * [LiveChat .](https://ppctrack.softwaresuggest.com/livechat-aff)
-    - LiveChat image : 
-        ![LiveChat image : ](company2.png)
+    - LiveChat image :
+        ![LiveChat image : ](./images/company2.png)
     
     - LiveChat's AI features include:
 
